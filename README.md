@@ -106,16 +106,3 @@ This project represents my first steps into cloud engineering. I'm actively lear
 **Cost:** $0 (using Azure free tier credits)
 
 
-## Screenshots
-
-### Live Website
-![Live Website](website.png.png)
-
-### Azure VM Overview
-![Azure VM Overview](azure-vm.png.png)
-
-### Network Configuration
-![Network Rules](network-rules.png.png)
-
-### Resource Group
-![Resource Group](resource-group.png.png)
